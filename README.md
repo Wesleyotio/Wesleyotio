@@ -6,10 +6,12 @@
 </div>
  
 <div style="display: inline_block"><br>
-   <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
-   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
-   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
-   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
+   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
+   <img align="center" alt="teste"  height="30" width="40" src="https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png">
+   <img align="center" alt="teste"  height="30" width="40" src="https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png">
+   <img align="center" alt="teste"  height="30" width="40" src="https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png">
+   <img align="center" alt="teste"  height="30" width="40" src="https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png">
+   
 </div>
   
 
