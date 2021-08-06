@@ -1,6 +1,6 @@
 ### Hello, buddy! 👋
 
-🔭 Currently work: eb development ;
+🔭 Currently work: Web Development ;
 
 📚 Studying: Docker, VueJS and Laravel;
 
