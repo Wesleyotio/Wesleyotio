@@ -10,9 +10,9 @@
 
 💡🤩⚡ Beliefs and passions: Education and training of people;
 <div>
-  <a href="https://github.com/WesleyTio">
-    <img height=180 src="https://github-readme-stats.vercel.app/api?username=WesleyTio&count_private=true&show_icons=true&theme=vue-dark">
-    <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyTio&langs_count=8&layout=compact&theme=vue-dark">
+  <a href="https://github.com/Wesleyotio">
+    <img height=180 src="https://github-readme-stats.vercel.app/api?username=Wesleyotio&count_private=true&show_icons=true&theme=vue-dark">
+    <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wesleyotio&langs_count=8&layout=compact&theme=vue-dark">
 </div>
  
 <div style="display: inline_block align: center"><br>
